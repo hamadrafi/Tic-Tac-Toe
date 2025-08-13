@@ -6,6 +6,7 @@ Two players take turns placing `X` and `O` until one wins or the game ends in a 
 ---
 
 ## 📂 Project Structure
+```plaintext
 .
 ├── index.html       # Game layout
 ├── style.css        # Styles for the board and UI
