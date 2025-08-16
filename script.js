@@ -16,7 +16,7 @@ const WinPatterns = [
     [2,4,6]
 ];
 
-// Box click
+// Box clic
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
         if (box.innerText === "X" || box.innerText === "O" || gameOver) {
